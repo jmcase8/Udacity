@@ -1,6 +1,8 @@
 # Udacity
 Code from Udacity Data Analyst Nanodegree
 
+[Certificate](https://github.com/jmcase8/Udacity-Data-Analyst/blob/main/Certificate.pdf)
+
 ## Project 1
 This was an exercise in utilizing SQL to extract information from a database, and then analyze local and global temperature data and compare the temperature trends to near where live (the closest location was Miami) to overall global temperature trends. [View code on nbviewer](https://nbviewer.jupyter.org/github/jmcase8/Udacity/blob/main/Project%201/Project%201.ipynb)
 
@@ -15,3 +17,4 @@ During this project tweets were wrangled from the twitter user WeRateDogs. The t
 
 ## Project 5 
 In this project I created python visualizations for exploratory data analysis on loan data from Prosper. The project begins by looking at univariate plot, then bivariate plots, and finally mulitvariate plots. Finally, explanatory data visualization techniques were utilized to communicate the results of my findings. [View code on nbviewer](https://nbviewer.jupyter.org/github/jmcase8/Udacity/blob/main/Project%205/Loan%20Data.ipynb)
+
